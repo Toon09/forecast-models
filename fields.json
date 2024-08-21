@@ -1,0 +1,47 @@
+{
+    "E_DT2": "delivered-tarif2",
+    "G_M3": "gas",
+    "E_LPF": "long-power-failures",
+    "E_MP": "??1",
+    "E_RT1": "recieved-tarif1",
+    "E_DT1": "delivered-tarif1",
+    "E_PP": "??2",
+    "E_RT2": "recieved-tarif2",
+    "G_TST": "??3",
+    "E_TI": "tariff-indicator",
+    "E_PF": "any-power-fail",
+    "E_TST": "??4",
+
+    "TYPE": {
+        "abreviation": {
+            "E_DT2": "kwh",
+            "G_M3": "M3",
+            "E_LPF": "numeric",
+            "E_MP": "?",
+            "E_RT1": "kwh",
+            "E_DT1": "kwh",
+            "E_PP": "?",
+            "E_RT2": "kwh",
+            "G_TST": "?",
+            "E_TI": "numeric",
+            "E_PF": "numeric",
+            "E_TST": "?"
+        }, 
+
+        "real-name":   {
+            "delivered-tarif2": "kwh",
+            "gas": "M3",
+            "long-power-failures": "numeric",
+            "??1": "?",
+            "recieved-tarif1": "kwh",
+            "delivered-tarif1": "kwh",
+            "??2": "?",
+            "recieved-tarif2": "kwh",
+            "??3": "?",
+            "tariff-indicator": "numeric",
+            "any-power-fail": "numeric",
+            "??4": "?"
+        }
+    }  
+
+}

@@ -1,0 +1,13 @@
+data fields
+E_DT2                  	H           delivered to client tariff 2                     kwh
+G_M3                   	H           Gas                                              M3
+E_LPF                  	H           Long power failures in any phase                 numeric
+E_MP                 	H           ??
+E_RT1                   H           Received from client tariff 1                    kwh
+E_DT1                   H           delivered to client tariff 1                     kwh
+E_PP                    H           ??
+E_RT2                   H           Received from client tariff 2                    kwh
+G_TST                   H           ??
+E_TI                    H           Tariff indicator electricity                     numeric
+E_PF                    H           Power failures in any phase                      numeric
+E_TST                   H           ??
