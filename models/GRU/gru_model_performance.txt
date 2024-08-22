@@ -1,0 +1,2 @@
+GRU Model Training RMSE: 0.384
+GRU Model Testing RMSE: 0.758
